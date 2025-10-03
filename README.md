@@ -1,9 +1,22 @@
 # Happiness-score-Dashboard
+
+Data Collection : https://www.kaggle.com/datasets/unsdsn/world-happiness
+
 World Happiness Report Analysis (2015–2019)
 
-Overview
+Objective
 
 This project analyzes the World Happiness Report rankings between 2015 and 2019, with a special focus on India’s performance compared to top-ranked countries.
+
+Data Preparation
+
+We imported the data sheets from 2015 to 2019 into Power BI.
+Using Power Query, we cleaned and transformed the data:
+Made all the column headers the same across every sheet.
+Added the missing Dystopia Residual column for 2018 and 2019.
+Added a Year column to each sheet so we can identify which data belongs to which year once appended.
+Removed unnecessary columns that were not useful for our analysis.
+Finally, we combined (appended) all the sheets into a single sheet containing data from all years.
 
 The study highlights:
 
