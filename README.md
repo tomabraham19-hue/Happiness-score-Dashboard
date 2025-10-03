@@ -6,7 +6,7 @@ World Happiness Report Analysis (2015–2019)
 
 Objective
 
-This project analyzes the World Happiness Report rankings between 2015 and 2019, with a special focus on India’s performance compared to top-ranked countries.
+This project analyzes the World Happiness Report rankings between 2015 to 2019, with a special focus on India’s performance compared to top-ranked countries.
 
 Data Preparation
 
